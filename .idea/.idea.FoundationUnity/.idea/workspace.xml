@@ -60,10 +60,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IInitialization.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/Controllers.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/InputController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Helpers/CustomResourses.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data/Character/CharacterData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data/Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Managers/TagManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Managers/TagType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/InputController.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +111,7 @@
       <updated>1607241302079</updated>
       <workItem from="1607241332383" duration="1271000" />
       <workItem from="1607323248746" duration="7887000" />
+      <workItem from="1607504436378" duration="1398000" />
     </task>
     <servers />
   </component>
@@ -127,6 +130,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
